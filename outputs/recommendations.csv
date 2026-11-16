@@ -1,0 +1,6 @@
+priority,practice,description,carbon_benefit,implementation_season,estimated_cost_inr_per_ha,credit_potential_inr_per_ha,timeline
+HIGH,Zero-Till / No-Till Transition,Replace conventional plowing with zero-till seed drills for wheat and chickpea. Maintain crop residue as mulch cover.,0.30-0.45 tC/ha/year,Rabi (immediate),2500,3200,immediate
+HIGH,Cover Cropping with Legumes,Plant Sesbania or Dhaincha as green manure during fallow period. Incorporate before flowering to maximize N and C inputs.,0.40-0.60 tC/ha/year,Kharif fallow,1800,4500,1 season
+MEDIUM,Residue Retention (Stop Burning),Retain 60-70% of crop residue on fields. Use happy seeder for in-situ incorporation. Critical for Wardha cotton fields.,0.15-0.25 tC/ha/year,Post-harvest (Kharif),800,1800,immediate
+MEDIUM,Compost + Biochar Application,Apply 2-3 tonnes/ha compost or 0.5 t/ha biochar annually. Combine with vermicomposting of farm waste.,0.20-0.35 tC/ha/year,Pre-Kharif,3500,2800,1 season
+LOW,Agroforestry Integration,Plant Subabul or Moringa on field borders (5-8 trees/ha). Long-term SOC boost + additional income stream.,0.50-1.0 tC/ha/year,Kharif onset,4000,8000,2 seasons
